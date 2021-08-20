@@ -6,6 +6,7 @@ public class Main {
         Integer i1 = 10;
         Integer i2=10;
  //ggggggggggggggg
+        int a;
         Double d1=10d;
         Double d2=10d;
         System.out.println(i1==i2);
